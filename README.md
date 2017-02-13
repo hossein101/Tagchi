@@ -6,7 +6,7 @@
 
 #نصب
 ```
-git clone https://github.com/boydevreza/tablighchi.git && cd tablighchi && chmod 777 install.sh && chmod +x bottabchi.sh && ./install.sh
+git clone https://github.com/hossein101/Tagchi && cd Tagchi && chmod 777 install.sh && chmod +x bottabchi.sh && ./install.sh
 ```
  
 #ساختن و ران کردن
@@ -82,14 +82,4 @@ python3 creator.py
 ./tabchi-2.sh
 ```
 
-بجای2شماره دلخواه وارد شده
-
-
-#لانچ همگانی
- 
-شما میتوانید با انتی کرش موجود هم همه رباتهارو با یک کد لانچ کنید هم حافظه کش سرور رو پاک کنید وهم از اف شدن ربات جلوگیری کنید
-
-
-برای ران کردن همه رباتها درصورت خاموشی کدهای زیررا وارد کنید
-
-
+[![https://telegram.me/Vahshi_Typer](https://img.shields.io/badge/%F0%9F%92%AC_Telegram-HO3EIN-Yellow.svg)](https://telegram.me/Vahshi_Typer)
