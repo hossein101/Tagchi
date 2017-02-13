@@ -227,7 +227,7 @@ function process(msg)
 دريافت لينک هاي ذخيره شده توسط ربات
 🌐/contactlist
 دريافت مخاطبان ذخيره شده توسط ربات
-Join us » @botreborn_ch
+Admin : @Vahshi_Typer
 ]]
     return text
   end
